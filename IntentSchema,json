@@ -1,0 +1,40 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "GetAttendingExcuseIntent",
+      "samples": [
+        "give me an attending excuse",
+        "tell me why I'm not attending"
+      ],
+      "slots": []
+    },
+    {
+      "name": "GetHomeworkExcuseIntent",
+      "samples": [
+        "give me a homework excuse",
+        "tell me why I haven't done my homework"
+      ],
+      "slots": []
+    },
+    {
+      "name": "GetLateExcuseIntent",
+      "samples": [
+        "give me a late excuse",
+        "tell me why I'm late"
+      ],
+      "slots": []
+    }
+  ]
+}
